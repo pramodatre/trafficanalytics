@@ -1,0 +1,1335 @@
+link data type no additional information required 
+link data type additional information required 
+link data type actual 
+link data type reconstructed 
+link data type historical 
+link data type predicted 
+link data type smoothed 
+link data type averaged 
+positive direction 
+negative direction 
+both directions 
+stopped traffic 
+stop and go traffic 
+slow traffic 
+heavy traffic 
+traffic building 
+long queues 
+traffic congestion 
+traffic lighter than normal 
+traffic heavier than normal 
+traffic much heavier than normal 
+traffic flowing freely 
+traffic easing 
+traffic returned to normal 
+no problems to report 
+traffic congestion cleared 
+sun glare 
+residual delays 
+pockets of volume 
+marine boat traffic 
+accident 
+serious accident 
+injury accident 
+minor accident 
+multi vehicle accident 
+numerous accidents 
+accident involving a bicycle 
+accident involving a bus 
+accident involving a motorcycle 
+accident involving a pedestrian 
+accident involving a train 
+accident involving a truck 
+accident involving hazardous materials 
+earlier accident 
+medical emergency 
+secondary accident 
+rescue and recovery work in progress 
+accident investigation work 
+incident 
+stalled vehicle 
+abandoned vehicle 
+disabled vehicle 
+disabled truck 
+disabled semi trailer 
+disabled bus 
+disabled train 
+vehicle spun out 
+vehicle on fire 
+vehicle in water 
+vehicles slowing to look at accident 
+jackknifed semi trailer 
+jackknifed trailer home 
+jackknifed trailer 
+spillage occurring from moving vehicle 
+acid spill 
+chemical spill 
+fuel spill 
+hazardous materials spill 
+oil spill 
+spilled load 
+toxic spill 
+overturned vehicle 
+overturned truck 
+overturned semi trailer 
+overturned bus 
+derailed train 
+stuck vehicle 
+truck stuck under bridge 
+bus stuck under bridge 
+accident cleared 
+incident cleared 
+sigalert 
+single vehicle accident 
+two vehicle accident 
+transit related incident 
+weather related incident 
+property damage accident 
+rollover overturn jacknife 
+gas inhalation 
+noncollision injury 
+split tractor trailor 
+separated tractor trailor 
+truck fire 
+bus fire 
+tractor trailor fire 
+transformer fire 
+spinout 
+severe traffic incident 
+severe traffic alert 
+diverted traffic to westbound lanes 
+diverted traffic to eastbound lanes 
+diverted traffic to northbound lanes 
+diverted traffic to southbound lanes 
+diverted traffic from westbound lanes 
+diverted traffic from eastbound lanes 
+diverted traffic from northbound lanes 
+diverted traffic from southbound lanes 
+unknown other 
+unknown other with information 
+collision with pedestrian 
+collision with cycle or cyclist 
+collision with railway train 
+collision with animal 
+collision with motor vehicle in transport 
+collision with parked motor vehicle 
+collision with ground 
+collision with building 
+collision with impact attenuator 
+collision with bridge structure 
+collision with guardrail 
+collision with concrete traffic barrier 
+collision with post 
+collision with embarkment 
+collision with fence 
+collision with wall 
+collision with curb 
+collision with pole or support 
+collision with fire hydrant 
+collision with shrubbery or bush 
+collision with tree 
+collision with boulder 
+collision with pavement surface irregularity 
+collision with culvert or ditch 
+switch repairs 
+signal repairs 
+overhead wire catenary wire repairs 
+3rd rail repairs 
+track work 
+emergency track work 
+broken rail repairs 
+crossing grade repairs 
+track replacement 
+wood tie replacement 
+overpass repairs 
+underpass repairs 
+tunnel repairs 
+concrete tie replacement 
+elevator repairs 
+escalator repairs 
+crossing gate repairs 
+station renovations 
+station rehabilitation 
+platform repairs 
+general work order 
+repairs 
+unknown other 
+known other 
+closed to traffic 
+closed 
+closed ahead 
+closed intermittently 
+closed for repairs 
+closed for the season 
+blocked 
+blocked ahead 
+reduced to one lane 
+reduced to two lanes 
+reduced to three lanes 
+collapse 
+out 
+open to traffic 
+open 
+reopened to traffic 
+clearing 
+cleared 
+road construction 
+major road construction 
+long term road construction 
+construction work 
+paving operations 
+work in the median 
+road reconstruction 
+opposing traffic 
+narrow lanes 
+construction traffic merging 
+single line traffic alternating directions 
+road maintenance operations 
+road marking operations 
+bridge maintenance operations 
+bridge construction 
+bridge demolition work 
+blasting 
+avalanche control activities 
+water main work 
+gas main work 
+work on underground cables 
+work on underground services 
+new road construction layout 
+new road layout 
+temporary lane markings 
+temporary traffic lights 
+emergency maintenance 
+road maintenance cleared 
+normal road layout restored 
+road work clearance in progress 
+road construction cleared 
+normal traffic lanes restored 
+road work cleared 
+midday roadwork 
+offpeak roadwork 
+overnight roadwork 
+weekend long construction 
+pothole repairs 
+street sweeping 
+utility work 
+milling 
+bridge work 
+drawbridge testing 
+guard rail repairs 
+tree trimming 
+moving 
+traffic signal repairs 
+overhead sign repair 
+CCTV repairs 
+tunnel washing 
+MS repairs 
+bridge painting 
+line striping 
+barrier repairs 
+moveable barrier repairs 
+deck work 
+bridge cable repairs 
+FasTrak toll lane repairs 
+toll lane repairs 
+crack sealing 
+expansion joint repairs 
+attenuator repairs 
+tunnel repairs 
+installation of fiber optics 
+renovation 
+road rehabilitation 
+structure repairs 
+plate repairs 
+road widening 
+ramp widening 
+intersection improvements 
+drainage improvements 
+installation of sign structure 
+noise wall construction 
+installation of traffic monitoring systems 
+safety improvements 
+bridge replacements 
+steel repairs 
+installation of conduits 
+installation of traffic management systems 
+substructure repairs 
+culvert repairs 
+viaduct repairs 
+construction embargo 
+seismic retrofit 
+landscaping 
+grinding 
+electrical work 
+slide clean up 
+slide repair 
+light pole repair 
+trench work 
+highway construction 
+sound wall construction 
+unknown other 
+known other 
+obstruction on roadway 
+object on roadway 
+objects falling from moving vehicle 
+debris on roadway 
+storm damage 
+people on roadway 
+bicyclists on roadway 
+sightseers obstructing access 
+large numbers of visitors 
+animal on roadway 
+large animal on roadway 
+herd of animals on roadway 
+animal struck 
+fallen trees 
+downed power lines 
+downed cables 
+subsidence 
+road surface collapse 
+pavement buckled 
+pothole 
+flooding 
+broken water main 
+collapsed sewer 
+sewer overflow 
+gas leak 
+snowmelt 
+mudslide 
+avalanche 
+rock fall 
+landslide 
+clearance work 
+obstruction cleared 
+nearby building collapse 
+shifted plates 
+missing manhole cover 
+raised manhole 
+collapsed manhole 
+missing sewer grate 
+drawbridge open 
+delays 
+short delays 
+long delays 
+very long delays 
+delays of uncertain duration 
+delayed until further notice 
+busy 
+very busy 
+crowded 
+overcrowded 
+cancellations 
+route cancelled no replacement 
+service cancelled 
+service suspended 
+service withdrawn 
+service fully booked 
+all services fully booked 
+next departure 
+next arrival 
+very frequent service 
+frequent service 
+fairly frequent service 
+regular service 
+irregular service 
+not operating 
+system busy 
+system very busy 
+system crowded 
+system overcrowded 
+travel time 
+headway 
+delays clearing 
+delays cleared 
+normal services resumed 
+operating 
+vehicle traveling wrong way 
+reckless driver 
+prohibited vehicle on roadway 
+emergency vehicles 
+high speed emergency vehicles 
+high speed chase 
+dangerous vehicle warning cleared 
+emergency vehicle warning cleared 
+abnormal load 
+wide load 
+long load 
+slow vehicle 
+farm equipment 
+horse drawn vehicles 
+overheight load 
+overweight load 
+tracked vehicle 
+vehicle carrying hazardous materials 
+slow moving maintenance vehicle 
+convoy 
+military convoy 
+refugee convoy 
+motorcade 
+mobile situation repositioning 
+winter maintenance vehicles 
+snowplows 
+slow moving maintenance vehicle warning cleared 
+exceptional load warning cleared 
+hazardous load warning cleared 
+convoy cleared 
+lane control signs not working 
+lane control signs working incorrectly 
+lane control signs operating 
+variable message signs not working 
+variable message signs working incorrectly 
+variable message signs operating 
+emergency telephones not working 
+emergency telephone number not working 
+traffic lights not working 
+traffic lights working incorrectly 
+ramp control signals not working 
+ramp control signals working incorrectly 
+temporary traffic lights not working 
+temporary traffic lights working incorrectly 
+traffic signal control computer not working 
+traffic signal timings changed 
+overheight warning system triggered 
+equipment failure 
+railroad crossing equipment failure 
+tunnel ventilation not working 
+power failure 
+widespread power outages 
+technical problems 
+electronic signs repaired 
+emergency call facilities restored 
+traffic signals repaired 
+railroad crossing equipment now working normally 
+signal problem 
+stuck drawbridge 
+stuck gates 
+restrictions 
+ramp restrictions 
+truck restriction 
+speed restriction 
+noise restriction 
+traffic regulations have been changed 
+local access only 
+no trailers 
+no high profile vehicles 
+hazardous materials truck restriction 
+no through traffic 
+no motor vehicles 
+width limit 
+height limit 
+length limit 
+axle load limit 
+gross weight limit 
+axle count limit 
+carpool lane available 
+carpool restrictions changed 
+hOV 2 no single occupant vehicles 
+hOV 3 no vehicles with less than three occupants 
+bus lane available for all vehicles 
+truck lane available for all vehicles 
+permits call in basis 
+permits temporarily closed 
+permits closed 
+permits open 
+restrictions for high profile vehicles lifted 
+width limit lifted 
+height limit lifted 
+length limit lifted 
+axle count limit lifted 
+weight limit lifted 
+axle count limit lifted 
+carpool restrictions lifted 
+lane restrictions lifted 
+ramp restrictions lifted 
+motor vehicle restrictions lifted 
+restrictions lifted 
+unconfirmed report 
+initial response en route 
+follow up response en route 
+initial response on scene 
+follow up response on scene 
+confirmed report 
+scene is unsecured at this time 
+response scene secured 
+rescue and recovery work in progress 
+extraction in progress 
+clearance work in progress 
+body removal operations 
+fire or containment contained 
+fire or containment not contained 
+event cleared 
+traffic clearing 
+incident closed 
+fire department activity 
+police department activity 
+EMS activity 
+CHP enroute 
+CHP at the scene 
+flash flood 
+major flood 
+reservoir failure 
+levee failure 
+tsunami 
+tidal wave 
+volcanic eruption 
+ash fall 
+lava flow 
+serious fire 
+forest fire 
+wildfire 
+building fire 
+brush fire 
+grass fire 
+fire danger extreme 
+fire danger very high 
+fire danger high 
+fire danger medium 
+fire danger low 
+earthquake damage 
+air crash 
+rail crash 
+toxic release 
+toxic leak 
+radioactive release 
+radiation hazard 
+reactor leakage 
+explosion 
+major hazardous materials fir 
+major hazardous materials release 
+disaster cleared 
+fire 
+assault 
+crime 
+robbery 
+fare dispute 
+shooting 
+gunfire on roadway 
+suicide 
+fight 
+gang fight 
+person harassment 
+person injured 
+unruly passenger 
+person intoxicated 
+crowd control problem 
+demonstration 
+march 
+public disturbance 
+riot 
+civil unrest 
+civil emergency 
+strike 
+public transit strike 
+stampede 
+teargas used 
+security alert 
+security incident 
+checkpoint 
+bomb alert 
+terrorist incident 
+high velocity shell fire 
+explosives in use 
+air raid 
+weapons of mass destruction threat 
+military operations 
+security problem cleared 
+traffic disturbance cleared 
+sports event 
+game 
+tournament 
+track and field event 
+baseball game 
+basketball game 
+boxing match 
+football game 
+soccer game 
+golf tournament 
+hockey game 
+tennis tournament 
+wrestling match 
+road race 
+automobile race 
+bicycle race 
+race event 
+marathon 
+horse show 
+rodeo 
+water sports event 
+winter sports event 
+skating event 
+sporting event ended 
+ops sail 
+olympics 
+major event 
+airshow 
+hot air ballooning 
+concert 
+state occasion 
+vIP visit 
+show 
+festival 
+exhibition 
+performing arts 
+outdoor market 
+fair 
+carnival 
+fireworks display 
+trade expo 
+movie filming 
+presidential visit 
+parade 
+procession 
+funeral procession 
+crowd 
+holiday traffic 
+event ended 
+circus 
+awards ceremony 
+march 
+fleet week 
+new years eve 
+christmas tree lighting 
+unknown other 
+known other 
+unknown other 
+known other 
+stalled train 
+stalled work train 
+equipment problems 
+signal problems 
+switching problems 
+debris on tracks 
+flooding 
+downed wires 
+downed tree 
+track work 
+emergency track work 
+police activity 
+fire department activity 
+track fire 
+derailment 
+work train derailment 
+nearby building collapse 
+nearby building fire 
+smoke condition 
+watermain break 
+overcrowding 
+holiday schedule 
+weekday schedule 
+weekend schedule 
+delays 
+weather 
+snow 
+ice 
+accident 
+extra service 
+broken rail 
+power problem 
+stuck drawbridge 
+brush fire 
+brakes in emergency 
+animal on tracks 
+job action 
+construction 
+special event 
+mudslide 
+rockslide 
+landslide 
+sick customer 
+injured customer 
+person under train 
+trespasser struck 
+elevator malfunction 
+escalator malfunction 
+crossing gate malfunction 
+ozone alert 
+dark station 
+holiday weekend 
+concrete tie replacement 
+rocks on tracks 
+normal parking restrictions lifted 
+parking meter restrictions lifted 
+special parking restrictions in force 
+full parking lot 
+full parking garage 
+all parking lots full 
+no parking spaces available 
+only a few spaces available 
+spaces available 
+no parking 
+parking on one side of street only 
+parking on both sides of street 
+parallel parking only 
+parking meters not available 
+use of parking meters restricted 
+event parking 
+handicapped parking 
+long term parking 
+overnight parking 
+short term parking 
+special parking restrictions lifted 
+no parking information available 
+information available on radio 
+information available on TV 
+call to get information 
+information available via Internet 
+test message 
+no information available 
+null description 
+information service is being suspended 
+information service resumed 
+message canceled 
+overcast 
+cloudy 
+mostly cloudy 
+partly cloudy 
+partly sunny 
+mostly sunny 
+sunny 
+fair 
+clear 
+mostly clear 
+mostly dry 
+dry 
+uV index very high 
+uV index high 
+uV index moderate 
+uV index low 
+uV index very low 
+barometric pressure 
+weather forecast withdrawn 
+ozone alert 
+severe weather 
+blizzard 
+heavy snow 
+snow 
+light snow 
+snow showers 
+winter storm 
+ice glaze 
+heavy frost 
+frost 
+ice storm 
+sleet 
+rain and snow mixed 
+rain changing to snow 
+damaging hail 
+hail 
+thunderstorms 
+thundershowers 
+extremely heavy downpour 
+heavy rain 
+rain 
+light rain 
+drizzle 
+showers 
+dew 
+precipitation cleared 
+tornado 
+hurricane 
+hurricane force winds 
+tropical storm 
+gale force winds 
+storm force winds 
+strong winds 
+moderate winds 
+light winds 
+calm 
+gusty winds 
+crosswinds 
+windy 
+strong winds have eased 
+strong wind forecast withdrawn 
+dense fog 
+fog 
+patchy fog 
+freezing fog 
+mist 
+haze 
+visibility reduced 
+white out 
+blowing snow 
+smoke hazard 
+spray hazard 
+low sun glare 
+snow glare 
+blowing dust 
+blowing sand 
+dust storms 
+sandstorms 
+air quality good 
+air quality fair 
+air quality poor 
+air quality very poor 
+severe exhaust pollution 
+smog alert 
+pollen count high 
+pollen count medium 
+pollen count low 
+swarms of insects 
+fog clearing 
+visibility improved 
+fog forecast withdrawn 
+pollution alert ended 
+air quality improved 
+maximum temperature 
+temperature 
+minimum temperature 
+current temperature 
+heat index 
+extreme heat 
+hot 
+hotter 
+heat 
+warmer 
+warm 
+mild 
+cool 
+cooler 
+cold 
+colder 
+very cold 
+extreme cold 
+wind chill 
+dewpoint 
+relative humidity 
+temperatures close to the seasonal norm 
+less extreme temperatures 
+impassable 
+almost impassable 
+passable with care 
+passable 
+surface water hazard 
+danger of hydroplaning 
+wet pavement 
+treated pavement 
+slippery 
+mud on roadway 
+leaves on roadway 
+loose sand on roadway 
+loose gravel 
+fuel on roadway 
+oil on roadway 
+road surface in poor condition 
+melting tar 
+ice 
+icy patches 
+black ice 
+ice pellets on roadway 
+ice build up 
+freezing rain 
+wet and icy roads 
+melting snow 
+slush 
+frozen slush 
+snow on roadway 
+packed snow 
+packed snow patches 
+plowed snow 
+wet snow 
+fresh snow 
+powder snow 
+granular snow 
+frozen snow 
+crusted snow 
+deep snow 
+snow drifts 
+drifting snow 
+expected snow accumulation 
+current snow accumulation 
+dry pavement 
+snow cleared 
+pavement conditions improved 
+skid hazard reduced 
+pavement conditions cleared 
+winter equipment recommended 
+winter equipment required 
+snow chains recommended 
+snow chains required 
+snow chains prohibited 
+studded tires prohibited 
+snow tires recommended 
+snow tires required 
+four wheel drive recommended 
+four wheel drive required 
+snow tires or chains recommended 
+snow tires or chains required 
+winter driving requirements lifted 
+driving conditions good 
+driving conditions fair 
+difficult driving conditions 
+very difficult driving conditions 
+hazardous driving conditions 
+extremely hazardous driving conditions 
+why not ride share 
+is this your no ride day 
+why not use transit 
+why not park and ride 
+why not try paratransit 
+why not travel by rail 
+why not use the subway 
+why not try rapid transit 
+why not travel by bus 
+your parking ticket covers the return ride 
+avoid the rush hour 
+do not allow unnecessary gaps 
+follow the vehicle in front smoothly 
+do not slow down unnecessarily 
+watch for muggers 
+watch for pickpockets 
+watch for thieves 
+sorry for any delay 
+thank you for your understanding 
+we appreciate your patience 
+we are grateful for your cooperation 
+unknown 
+risk 
+watch 
+warning 
+alert 
+danger 
+danger of explosion 
+danger of fire 
+extra police patrols in operation 
+look out for vehicles stopped under bridges 
+increased risk of accident 
+rescue and recovery work in progress 
+police at scene 
+emergency vehicles at scene 
+traffic being directed around accident area 
+police directing traffic 
+rescue workers directing traffic 
+repairs in progress 
+pilot car in operation 
+look out for flagger 
+police checks in operation 
+mandatory speed limit in force 
+speed limit in force for heavy vehicles 
+warning canceled 
+watch canceled 
+alert canceled 
+ended 
+cleared 
+canceled 
+clearance work taking place 
+due to earlier incident 
+due to earlier accident 
+sanding in progress 
+snow plowing in progress 
+drive carefully 
+drive with extreme caution 
+approach with care 
+keep your distance 
+increase normal following distance 
+test your brakes 
+cross intersection with care 
+pass with care 
+use low beam headlights 
+use fog lights 
+use hazard warning lights 
+do not leave your vehicle 
+leave your vehicle proceed to next safe place 
+turn off engine 
+close all windows turn off heater air conditioner and vents 
+turn off air conditioner to prevent engine overheating 
+turn off mobile phones and two way radios 
+prepare to stop 
+stop at next rest area 
+stop at next safe place 
+only travel if absolutely necessary 
+drive to another service area 
+use through traffic lanes 
+use local traffic lanes 
+use left hand parallel roadway 
+use right hand parallel roadway 
+use heavy vehicle lane 
+observe recommended speed 
+only use if absolutely necessary 
+carpool lane available 
+snow chains recommended 
+transit recommended 
+snow tired recommended 
+trucks are recommended to avoid the area 
+keep to the right 
+keep to the left 
+use right lane 
+use left lane 
+heavy vehicles use right lane 
+heavy vehicles use left lane 
+observe signals 
+observe signs 
+no passing 
+no smoking 
+no open flames 
+use shoulder as lane 
+do not drive on the shoulder 
+allow emergency vehicles to pass 
+clear a lane for emergency vehicles 
+pull over to the edge of the roadway 
+wait for escort vehicle 
+in emergency wait for police patrol 
+reduce your speed 
+observe speed limits 
+shoulder travel no longer allowed 
+no parking for snow clearance 
+no parking for snow emergencies 
+snow chains mandatory 
+snow tires mandatory 
+above 
+below 
+in 
+around 
+after 
+before 
+at 
+on 
+near 
+from the 
+terminal 
+falling slowly 
+falling 
+falling quickly 
+rising slowly 
+rising 
+rising quickly 
+steady 
+likely 
+changing to 
+mostly 
+partly 
+minus 
+ended 
+expected 
+low 
+mid 
+high 
+upper 
+unseasonably 
+reported 
+advice 
+due to 
+proceed to 
+transferred to 
+use 
+affecting 
+blocking 
+connecting 
+finished 
+for 
+or 
+and 
+later 
+level 
+shortly 
+soon 
+service 
+on bridges 
+in tunnels 
+entering or leaving tunnels 
+on ramps 
+in road construction area 
+around a curve 
+on minor roads 
+in the opposing lanes 
+adjacent to roadway 
+on bend 
+entire intersection 
+in the median 
+moved to side of road 
+moved to shoulder 
+on the roadway 
+in shaded areas 
+in low lying areas 
+in the downtown area 
+in the inner city area 
+in parts 
+in some places 
+in the ditch 
+in the valley 
+on hill top 
+near the foothills 
+at high altitudes 
+near the lake 
+near the shore 
+over the crest of a hill 
+other than on the roadway 
+near the beach 
+near beach access point 
+lower level 
+upper level 
+airport 
+concourse 
+gate 
+baggage claim 
+customs point 
+station 
+platform 
+dock 
+depot 
+eV charging point 
+information or welcome point 
+at rest area 
+at service area 
+at weigh station 
+picnic areas 
+rest area 
+service stations 
+toilets 
+on the right 
+on the left 
+in the center 
+in the opposite direction 
+cross traffic 
+northbound traffic 
+eastbound traffic 
+southbound traffic 
+westbound traffic 
+north 
+south 
+east 
+west 
+northeast 
+northwest 
+southeast 
+southwest 
+at high elevations 
+all roadways 
+through lanes 
+left lane 
+right lane 
+center lane 
+middle lanes 
+middle two lanes 
+right turning lanes 
+left turning lanes 
+right exit ramp 
+right entrance ramp 
+left exit ramp 
+left entrance ramp 
+hard shoulder 
+soft shoulder 
+right shoulder 
+left shoulder 
+right hand parallel lanes 
+left hand parallel lanes 
+connecting lanes 
+express lanes 
+local lanes 
+toll lanes 
+electronic toll lanes 
+toll plaza 
+inspection lane 
+hOV lanes 
+bus lanes 
+carpool lanes 
+truck lanes 
+emergency lanes 
+passing lanes 
+climbing lanes 
+slow lane 
+service road 
+cycle lane 
+bridge 
+overpass 
+elevated lanes 
+underpass 
+tunnel 
+non express lane only 
+detour where possible 
+no detour available 
+follow signs 
+follow detour signs 
+follow special detour markers 
+do not follow detour signs 
+detour in operation 
+follow local detour 
+compulsory detour in operation 
+no suitable detour available 
+detour is no longer recommended 
+local drivers are recommended to avoid the area 
+trucks are recommended to avoid the area 
+consider alternate route 
+consider alternate parking 
+consider alternate destination 
+consider alternate area 
+travel 
+transit 
+bus 
+trolleybus 
+rail 
+commuter rail 
+subway 
+rapid transit 
+light rail 
+streetcar 
+dial a ride 
+park and ride 
+shuttle 
+free shuttle 
+airport shuttle 
+taxies 
+ferry 
+passenger ferry 
+vehicle ferry 
+aerial tramway 
+automated guideway 
+cable cars 
+monorail 
+air travel 
+all vehicles 
+bicycles 
+motorcycles 
+cars 
+light vehicles 
+cars and light vehicles 
+cars with trailers 
+cars with recreational trailers 
+vehicles with trailers 
+heavy vehicles 
+trucks 
+buses 
+articulated buses 
+school 
+vehicles with semi trailers 
+vehicles with double trailers 
+high profile vehicles 
+wide vehicles 
+long vehicles 
+hazardous loads 
+exceptional loads 
+abnormal loads 
+convoys 
+maintenance vehicles 
+delivery vehicles 
+vehicles with even numbered license plates 
+vehicles with odd numbered license plates 
+vehicles with parking permits 
+vehicles with catalytic converters 
+vehicles without catalytic converters 
+gas powered vehicles 
+diesel powered vehicles 
+lPG vehicles 
+military convoys 
+military vehicles 
+through traffic 
+holiday traffic 
+residents 
+visitors 
+long distance traffic 
+local traffic 
+regional traffic 
+arrivals 
+departures 
+airline travelers 
+commuter airline travelers 
+domestic airline travelers 
+international airline travelers 
+pedestrians 
+bicyclists 
+emergency vehicles 
+federal law enforcement units 
+state police units 
+county police units 
+local police units 
+ambulance units 
+rescue units 
+fire units 
+hAZMAT units 
+light tow unit 
+heavy tow unit 
+ground fire suppression 
+heavy ground equipment 
+aircraft 
+marine equipment 
+support equipment 
+medical rescue unit 
+other 
+ground fire suppression other 
+engine 
+truck or aerial 
+quint 
+tanker pumper combination 
+brush truck 
+aircraft rescue and firefighting 
+heavy ground equipment other 
+dozer or plow 
+tractor 
+tanker or tender 
+aircraft other 
+aircraft fixed wing tanker 
+helitanker 
+helicopter 
+marine equipment other 
+fire boat with pump 
+boat no pump 
+support apparatus other 
+breathing apparatus support 
+light and air unit 
+medical rescue unit other 
+rescue unit 
+urban search rescue unit 
+high angle rescue 
+crash fire rescue 
+bLS unit 
+aLS unit 
+mobile command post 
+chief officer car 
+hAZMAT unit 
+type i hand crew 
+type ii hand crew 
+privately owned vehicle 
+other apparatus resource 
+ambulance 
+bomb squad van 
+combine harvester 
+construction vehicle 
+farm tractor 
+grass cutting machines 
+hAZMAT containment 
+heavy tow 
+hedge cutting machines 
+light tow 
+mobile crane 
+refuse collection vehicle 
+resurfacing vehicle 
+road sweeper 
+roadside litter collection crews 
+salvage vehicle 
+sand truck 
+snowplow 
+steam roller 
+swat team van 
+track laying vehicle 
+unknown 
+white lining vehicle 
+not directional 
+positive direction 
+negative direction 
+both directions 
+proposed detour 
+confirmed detour 
+destination of detailed detour 
+alternate destination 
+sunday 
+monday 
+tuesday 
+wednesday 
+thursday 
+friday 
+saturday 
+not specified 
+morning 
+afternoon 
+evening 
+night 
+in the day time 
+during off peak periods 
+at peak periods 
+until further notice 
+UDP 
+serial 
+inactive 
+active 
+comm failure 
+on line 
+unknown 

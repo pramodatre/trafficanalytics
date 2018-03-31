@@ -23,9 +23,6 @@ Download *extractevents.py* and place the output of the annotation phase (final-
 
 */usr/bin/python extractevents.py* 
 
-***Visualization***
-We have created a prototype to visualize all the city events both from city department (511.org) and the events we have extracted from tweets -- http://bit.ly/1gcSvLz
-
 **References**
 
 [1] Open Street Maps: http://www.openstreetmap.org/

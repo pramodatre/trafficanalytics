@@ -23,6 +23,11 @@ Download *extractevents.py* and place the output of the annotation phase (final-
 
 */usr/bin/python extractevents.py* 
 
+**Citation**
+If you use this work, please cite:
+
+Pramod Anantharam, Payam Barnaghi, Krishnaprasad Thirunarayan, and Amit Sheth. 2015. Extracting City Traffic Events from Social Streams. ACM Trans. Intell. Syst. Technol. 6, 4, Article 43 (July 2015), 27 pages. DOI=http://dx.doi.org/10.1145/2717317
+
 **References**
 
 [1] Open Street Maps: http://www.openstreetmap.org/
